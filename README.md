@@ -1,6 +1,6 @@
 # compiled_flutter
 
-A new Flutter project.
+A Compilation of Flutter projects, for our midterm requirement in Mobile Computing.
 
 ## Getting Started
 
